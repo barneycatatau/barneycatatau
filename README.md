@@ -1,6 +1,6 @@
 # 🍺 Barney Catatau
 
-💻 Developer, and 🤖 automation enthusiast with over two decades of experience breaking and fixing things since the inglorious days of Visual Basic 6.
+💻 Wannabe developer, and 🤖 automation enthusiast with over few decades of experience breaking and fixing things since the inglorious days of Visual Basic 6.
 
 Most of my projects begin as a simple idea and eventually evolve into a Python script, a Docker container, an ESP32, a custom PCB, a home server, or a questionable overclocking experiment. Sometimes all at once.
 
