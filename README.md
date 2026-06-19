@@ -1,10 +1,4 @@
-<!-- Logo -->
-
-<p align="left">
-  <img src="./readme/logo.png" alt="Barney Catatau Logo" width="140">
-</p>
-
-# Barney Catatau
+# Barney Catatau ![Profile Views](https://komarev.com/ghpvc/?username=barneycatatau&style=flat-square)
 
 Developer, hacker, and automation enthusiast with over two decades of experience breaking and fixing things since the inglorious days of Visual Basic 6.
 
