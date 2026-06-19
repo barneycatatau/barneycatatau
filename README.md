@@ -1,4 +1,6 @@
-# Barney Catatau ![Profile Views](https://komarev.com/ghpvc/?username=barneycatatau&style=flat-square)
+# Barney Catatau ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barneycatatau&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barneycatatau&layout=compact&theme=transparent)
 
 Developer, hacker, and automation enthusiast with over two decades of experience breaking and fixing things since the inglorious days of Visual Basic 6.
 
