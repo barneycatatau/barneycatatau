@@ -1,6 +1,4 @@
-# Barney Catatau ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barneycatatau&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barneycatatau&layout=compact&theme=transparent)
+# Barney Catatau
 
 Developer, hacker, and automation enthusiast with over two decades of experience breaking and fixing things since the inglorious days of Visual Basic 6.
 
